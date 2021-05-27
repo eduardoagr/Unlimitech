@@ -1,0 +1,15 @@
+C:\Users\egome\Documents\GitHub\Unlimitech\test\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\egome\Documents\GitHub\Unlimitech\test\obj\Debug\netstandard2.0\View\AstedoidsCollectionPage.xaml.g.cs
+C:\Users\egome\Documents\GitHub\Unlimitech\test\obj\Debug\netstandard2.0\View\AsteroidsDetailPage.xaml.g.cs
+C:\Users\egome\Documents\GitHub\Unlimitech\test\obj\Debug\netstandard2.0\test.AssemblyInfoInputs.cache
+C:\Users\egome\Documents\GitHub\Unlimitech\test\obj\Debug\netstandard2.0\test.AssemblyInfo.cs
+C:\Users\egome\Documents\GitHub\Unlimitech\test\obj\Debug\netstandard2.0\test.csproj.CoreCompileInputs.cache
+C:\Users\egome\Documents\GitHub\Unlimitech\test\obj\Debug\netstandard2.0\test.dll
+C:\Users\egome\Documents\GitHub\Unlimitech\test\obj\Debug\netstandard2.0\ref\test.dll
+C:\Users\egome\Documents\GitHub\Unlimitech\test\obj\Debug\netstandard2.0\test.pdb
+C:\Users\egome\Documents\GitHub\Unlimitech\test\bin\Debug\netstandard2.0\test.deps.json
+C:\Users\egome\Documents\GitHub\Unlimitech\test\bin\Debug\netstandard2.0\test.dll
+C:\Users\egome\Documents\GitHub\Unlimitech\test\bin\Debug\netstandard2.0\ref\test.dll
+C:\Users\egome\Documents\GitHub\Unlimitech\test\bin\Debug\netstandard2.0\test.pdb
+C:\Users\egome\Documents\GitHub\Unlimitech\test\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\egome\Documents\GitHub\Unlimitech\test\obj\Debug\netstandard2.0\test.csproj.AssemblyReference.cache
