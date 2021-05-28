@@ -8,6 +8,7 @@
     <ContentPage.BindingContext>
         <vm:AsteriodsCollectionPageVM/> 
     </ContentPage.BindingContext>
+    
     <ContentPage.Content>
         <CollectionView x:Name="AsteroidsCollection" 
                         ItemsSource="{x:Binding AsteroidInfoItems}"

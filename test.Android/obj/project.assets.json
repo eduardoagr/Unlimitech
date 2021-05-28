@@ -2284,11 +2284,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\egome\\Documents\\GitHub\\Unlimitech\\test.Android\\test.Android.csproj",
+      "projectUniqueName": "C:\\Users\\egome\\Documents\\GitRepos\\Unlimitech\\test.Android\\test.Android.csproj",
       "projectName": "test.Android",
-      "projectPath": "C:\\Users\\egome\\Documents\\GitHub\\Unlimitech\\test.Android\\test.Android.csproj",
+      "projectPath": "C:\\Users\\egome\\Documents\\GitRepos\\Unlimitech\\test.Android\\test.Android.csproj",
       "packagesPath": "C:\\Users\\egome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\egome\\Documents\\GitHub\\Unlimitech\\test.Android\\obj\\",
+      "outputPath": "C:\\Users\\egome\\Documents\\GitRepos\\Unlimitech\\test.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2311,8 +2311,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\egome\\Documents\\GitHub\\Unlimitech\\test\\test.csproj": {
-              "projectPath": "C:\\Users\\egome\\Documents\\GitHub\\Unlimitech\\test\\test.csproj"
+            "C:\\Users\\egome\\Documents\\GitRepos\\Unlimitech\\test\\test.csproj": {
+              "projectPath": "C:\\Users\\egome\\Documents\\GitRepos\\Unlimitech\\test\\test.csproj"
             }
           }
         }

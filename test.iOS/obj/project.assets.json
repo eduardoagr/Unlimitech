@@ -1256,11 +1256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\egome\\Documents\\GitHub\\Unlimitech\\test.iOS\\test.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\egome\\Documents\\GitRepos\\Unlimitech\\test.iOS\\test.iOS.csproj",
       "projectName": "test.iOS",
-      "projectPath": "C:\\Users\\egome\\Documents\\GitHub\\Unlimitech\\test.iOS\\test.iOS.csproj",
+      "projectPath": "C:\\Users\\egome\\Documents\\GitRepos\\Unlimitech\\test.iOS\\test.iOS.csproj",
       "packagesPath": "C:\\Users\\egome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\egome\\Documents\\GitHub\\Unlimitech\\test.iOS\\obj\\",
+      "outputPath": "C:\\Users\\egome\\Documents\\GitRepos\\Unlimitech\\test.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1283,8 +1283,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\egome\\Documents\\GitHub\\Unlimitech\\test\\test.csproj": {
-              "projectPath": "C:\\Users\\egome\\Documents\\GitHub\\Unlimitech\\test\\test.csproj"
+            "C:\\Users\\egome\\Documents\\GitRepos\\Unlimitech\\test\\test.csproj": {
+              "projectPath": "C:\\Users\\egome\\Documents\\GitRepos\\Unlimitech\\test\\test.csproj"
             }
           }
         }
